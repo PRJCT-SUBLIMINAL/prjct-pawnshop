@@ -29,20 +29,95 @@ Config.Locations = {
 }
 
 Config.Items = {
-    gold_necklace = {
-        label = 'Gold Chain',
+
+    silver_ring = {
+        label = 'Silver Ring',
         price = 100
     },
-    diamond = {
-        label = 'Diamond',
-        price = 80
-    },
+
     gold_ring = {
         label = 'Gold Ring',
-        price = 25
+        price = 100
     },
+
+    ruby_ring = {
+        label = 'Ruby Ring',
+        price = 100
+    },
+
+    emerald_ring = {
+        label = 'Emerald Ring',
+        price = 100
+    },
+
+    sapphire_ring = {
+        label = 'Sapphire Ring',
+        price = 100
+    },
+
+    diamond_ring = {
+        label = 'Diamond Ring',
+        price = 100
+    },
+
     silver_necklace = {
-        label = 'Silver Chain',
-        price = 80
-    }
+        label = 'Silver Necklace',
+        price = 100
+    },
+
+    gold_necklace = {
+        label = 'Gold Necklace',
+        price = 100
+    },
+
+    ruby_necklace = {
+        label = 'Ruby Necklace',
+        price = 100
+    },
+
+    emerald_necklace = {
+        label = 'Emerald Necklace',
+        price = 100
+    },
+
+    sapphire_necklace = {
+        label = 'Emerald Necklace',
+        price = 100
+    },
+
+    diamond_necklace = {
+        label = 'Emerald Necklace',
+        price = 100
+    },
+
+    silver_earrings = {
+        label = 'Emerald Necklace',
+        price = 100
+    },
+
+    gold_earrings = {
+        label = 'Emerald Necklace',
+        price = 100
+    },
+
+    ruby_earrings = {
+        label = 'Emerald Necklace',
+        price = 100
+    },
+
+    emerald_earrings = {
+        label = 'Emerald Necklace',
+        price = 100
+    },
+
+    sapphire_earrings = {
+        label = 'Emerald Necklace',
+        price = 100
+    },
+
+    diamond_earrings = {
+        label = 'Diamond Earrings',
+        price = 100
+    },
+
 }
